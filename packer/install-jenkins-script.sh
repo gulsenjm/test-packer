@@ -1,4 +1,3 @@
-#!/bin/bash
 sudo yum install epel-release -y
 sudo yum install wget java -y 
 sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins.io/redhat/jenkins.repo
